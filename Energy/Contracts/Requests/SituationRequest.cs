@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using popo.Contracts.DTOs;
+using Energy.Contracts.DTOs;
 
-namespace popo.Contracts.Requests
+namespace Energy.Contracts.Requests
 {
     public class SituationRequest
     {

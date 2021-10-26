@@ -1,6 +1,4 @@
-﻿using System.Threading.Tasks;
-
-namespace popo.Handlers
+﻿namespace Energy.Handlers
 {
     public interface IHandler<TRequest, TResult>
     {

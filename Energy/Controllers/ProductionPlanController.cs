@@ -1,12 +1,8 @@
-﻿using System;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
-using popo.Contracts.Requests;
-using popo.Contracts.Responses;
-using popo.Handlers;
+﻿using Microsoft.AspNetCore.Mvc;
+using Energy.Contracts.Requests;
+using Energy.Handlers;
 
-namespace popo.Controllers
+namespace Energy.Controllers
 {
     [ApiController]
     [Route("[controller]")]

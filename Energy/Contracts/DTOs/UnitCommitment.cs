@@ -1,5 +1,4 @@
-﻿using System;
-namespace popo.Contracts.Responses
+﻿namespace Energy.Contracts.Responses
 {
     public class UnitCommitment
     {

@@ -1,5 +1,4 @@
-﻿using System;
-namespace popo.Contracts.DTOs
+﻿namespace Energy.Contracts.DTOs
 {
     public class PowerPlantDTO
     {

@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace popo.Contracts.DTOs
+namespace Energy.Contracts.DTOs
 {
     public class FuelsDTO
     {
